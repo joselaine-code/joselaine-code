@@ -1,6 +1,6 @@
 ### Olá, meu nome é Joselaine Aparecida (Josy) 
 
-- 🖥️ Sou funcionária pública da área jurídica em transição de carreira para desenvolvimento Android
+- 🖥️ Android Developer at Nomad
 - 👩‍💻 Atualmente estou estudando Kotlin e Android.
 
 <div>

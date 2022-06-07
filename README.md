@@ -1,6 +1,6 @@
 ### Olá, meu nome é Joselaine Aparecida (Josy) 
 
-- 🖥️ Android Developer at Nomad
+- 🖥️ Android Developer at Itaú Unibanco
 - 👩‍💻 Atualmente estou estudando Kotlin e Android.
 
 <div>

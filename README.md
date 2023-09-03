@@ -1,7 +1,7 @@
 ### Olá, meu nome é Joselaine Aparecida (Josy) 
 
-- 🖥️ Android Developer at Itaú Unibanco
-- 👩‍💻 Atualmente estou estudando Kotlin e Android.
+- 🖥️ Android Developer Pl. at Itaú Unibanco
+- 👩‍💻 Atualmente estou estudando Compose e KMP.
 
 <div>
   <a href="https://github.com/joselaine-code">

@@ -1,6 +1,6 @@
 ### Olá, meu nome é Joselaine Aparecida (Josy) 
 
-- 🖥️ Android Developer Pl. at Itaú Unibanco
+- 🖥️ Android Developer Pl. at iFood.
 - 👩‍💻 Atualmente estou estudando Compose e KMP.
 
 <div>
